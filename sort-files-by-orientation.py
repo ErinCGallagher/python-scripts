@@ -2,7 +2,7 @@ import os
 import subprocess
 import shutil
 
-# This script sorts images into horizontal and vertical folders based on their dimensions.
+# This script sorts images and videos into horizontal and vertical folders based on their dimensions.
 # Sample Usgae: python3 sort-files-by-orientation.py /path/to/folder
 
 def get_image_dimensions(filepath):
