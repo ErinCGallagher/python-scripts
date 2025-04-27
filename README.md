@@ -1,2 +1,2 @@
 # python-scripts
-random python scripts
+Random helpful python scripts
